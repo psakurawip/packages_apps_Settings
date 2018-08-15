@@ -178,4 +178,6 @@ public class Settings extends SettingsActivity {
     public static class AccountDashboardActivity extends SettingsActivity {}
     public static class SystemDashboardActivity extends SettingsActivity {}
 
+    // Sakura Additions.
+    public static class SakuraSettingsActivity extends SettingsActivity {}
 }
