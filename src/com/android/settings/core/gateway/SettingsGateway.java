@@ -150,6 +150,7 @@ import com.android.settings.wifi.tether.WifiTetherSettings;
 
 import com.sakura.settings.SakuraSettings;
 import com.sakura.settings.fragments.misc.GamingMode;
+import com.sakura.settings.fragments.SmartPixels;
 
 public class SettingsGateway {
 
@@ -289,6 +290,7 @@ public class SettingsGateway {
             DarkModeSettingsFragment.class.getName(),
             SakuraSettings.class.getName(),
             GamingMode.class.getName(),
+            SmartPixels.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -329,5 +331,6 @@ public class SettingsGateway {
             UserBackupSettingsActivity.class.getName(),
             Settings.SakuraSettingsActivity.class.getName(),
             Settings.GamingModeActivity.class.getName(),
+            Settings.SmartPixelsActivity.class.getName(),
     };
 }
