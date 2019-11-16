@@ -180,4 +180,5 @@ public class Settings extends SettingsActivity {
 
     // Sakura Additions.
     public static class SakuraSettingsActivity extends SettingsActivity {}
+    public static class GamingModeActivity extends SettingsActivity {}
 }
