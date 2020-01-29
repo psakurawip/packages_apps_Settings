@@ -11435,8 +11435,4 @@
     <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
     <string name="rtt_settings_always_visible"></string>
 
-   <!-- QS blur -->
-    <string name="blur_quicksettings">Blur behind quick settings (beta)</string>
-    <string name="blur_quicksettings_subtitle">blurs darkened background behind quick settings</string>
-
 </resources>

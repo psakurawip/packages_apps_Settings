@@ -183,13 +183,6 @@
         android:defaultValue="false"
         lineage:requiresFeature="lineagehardware:FEATURE_HIGH_TOUCH_SENSITIVITY" />
  
-    <!-- QS blur toggle -->
-    <lineageos.preference.LineageSystemSettingSwitchPreference
-        android:key="qs_blur"
-        android:title="@string/blur_quicksettings"
-        android:summary="@string/blur_quicksettings_subtitle"
-        android:defaultValue="true" />
-
     <ListPreference
         android:key="theme"
         android:title="@string/device_theme"
