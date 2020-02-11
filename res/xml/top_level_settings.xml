@@ -42,7 +42,7 @@
         android:key="top_level_sakura_settings"
         android:title="@string/sakura_settings_title"
         android:summary="@string/sakura_dashboard_summary"
-        android:icon="@drawable/ic_homepage_superiorsettings"
+        android:icon="@drawable/ic_homepage_sakurasettings"
         android:order="-105"
         android:fragment="com.sakura.settings.SakuraSettings"/>
 
