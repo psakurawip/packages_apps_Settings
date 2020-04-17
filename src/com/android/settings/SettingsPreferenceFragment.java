@@ -56,7 +56,7 @@ import com.android.settingslib.core.instrumentation.Instrumentable;
 import com.android.settingslib.widget.FooterPreferenceMixinCompat;
 import com.android.settingslib.widget.LayoutPreference;
 
-import com.crdroid.settings.preferences.CustomDialogPref;
+import com.sakura.settings.preferences.CustomDialogPref;
 
 import java.util.UUID;
 
