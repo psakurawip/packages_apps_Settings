@@ -53,8 +53,7 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     contextualcards \
     settings-logtags \
     zxing-core-1.7 \
-    org.lineageos.platform.internal \
-    faceunlock_utils
+    org.lineageos.platform.internal
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 
